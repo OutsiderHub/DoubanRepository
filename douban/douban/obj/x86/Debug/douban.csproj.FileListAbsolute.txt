@@ -1,0 +1,10 @@
+C:\Users\liangjie\Documents\Visual Studio 2010\Projects\douban\douban\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\liangjie\Documents\Visual Studio 2010\Projects\douban\douban\obj\x86\Debug\douban.BookDetail.resources
+C:\Users\liangjie\Documents\Visual Studio 2010\Projects\douban\douban\obj\x86\Debug\douban.Properties.Resources.resources
+C:\Users\liangjie\Documents\Visual Studio 2010\Projects\douban\douban\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\liangjie\Documents\Visual Studio 2010\Projects\douban\douban\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\liangjie\Documents\Visual Studio 2010\Projects\douban\douban\bin\Debug\douban.exe
+C:\Users\liangjie\Documents\Visual Studio 2010\Projects\douban\douban\bin\Debug\douban.pdb
+C:\Users\liangjie\Documents\Visual Studio 2010\Projects\douban\douban\obj\x86\Debug\douban.Default.resources
+C:\Users\liangjie\Documents\Visual Studio 2010\Projects\douban\douban\obj\x86\Debug\douban.exe
+C:\Users\liangjie\Documents\Visual Studio 2010\Projects\douban\douban\obj\x86\Debug\douban.pdb
